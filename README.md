@@ -1,3 +1,3 @@
-# cd
+# Compiler Lab (seniors)
 
-A Repository with all the random codes done over the years in college.
+Collection of all the codes done in compiler lab by our seniors.
